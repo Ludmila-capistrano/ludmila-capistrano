@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou Ludmila 👋
 
-<!--
-**Ludmila-capistrano/ludmila-capistrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Atualmente sou profissional em transição de carreira e estou encarando o desafio para o desenvolvimento. Meu objetivo é transformar a curiosidade em soluções reais, aprendendo a cada dia como a lógica e o código podem resolver problemas do cotidiano.
 
-Here are some ideas to get you started:
+## 🚀 O que estou aprendendo agora:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meus estudos estão focados ao MySql e Phyton
+
+Foco Técnico: Interesse em aprofundar os conhecimentos na área de Dados
+
+## 🕹️ Além das linhas de código:
+
+Interesses: Espero alinhar meus conhecimentos na área da saúde ao mundo da tecnologia para impulsionar as respostas aos pacientes, profissionais e toda a comunidade hospitalar.
+
+## 🤝 Vamos nos conectar?
+
+LinkedIn: linkedin.com/in/ludmilacapistrano
+
+
+
